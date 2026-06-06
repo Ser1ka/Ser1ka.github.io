@@ -2,7 +2,7 @@
 layout: default
 permalink: /blog/
 title: blog
-nav: true
+nav: false # 改回 true 就会重新出现在导航栏
 nav_order: 1
 pagination:
   enabled: true
