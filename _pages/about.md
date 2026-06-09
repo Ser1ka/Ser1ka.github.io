@@ -2,11 +2,11 @@
 layout: about
 title: About
 permalink: /
-subtitle: BSc in Computer Science, City University of Hong Kong (Graduated) <br> Incoming ECE MEng Student, University of Alberta (Fall 2026)
+subtitle: BSc in Computer Science, City University of Hong Kong (Graduated) <br> Incoming ECE MEng Student (Specialized in Software Engineering and Intelligent Systems), University of Alberta (Fall 2026)
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: shuai.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Taken during my trip to Sapporo, Japan.</p>
@@ -23,7 +23,7 @@ latest_posts:
   enabled: false
 ---
 
-## About Me
+## **About Me**
 
 I am an incoming **ECE MEng (Master of Engineering)** student at the **University of Alberta** (Starting Fall 2026). I recently graduated with a **Bachelor of Science in Computer Science** from the **City University of Hong Kong (CityU)** in June 2026.
 
@@ -33,7 +33,7 @@ I am actively seeking **Research Assistant (RA) positions**, collaborative resea
 
 ---
 
-## Research Interests
+## **Research Interests**
 
 I am eager to bridge the gap between algorithmic theory and practical deployment in the following areas:
 * **Robot Learning & Agile Locomotion:** Coupling deep reinforcement learning (DRL) with structural or biological priors (e.g., CPG) for complex robotic systems.
@@ -42,9 +42,9 @@ I am eager to bridge the gap between algorithmic theory and practical deployment
 
 ---
 
-## Featured Research / Capstone Project
+## **Featured Project**
 
-### **Hybrid Legged Locomotion: Integrating CPG with Deep Reinforcement Learning for an 18-DOF Hexapod**
+### Hybrid Legged Locomotion: Integrating CPG with Deep Reinforcement Learning for an 18-DOF Hexapod
 *Individual Contributor | Final Year Project at CityU CS (Grade: **A-**)*
 
 <div class="row justify-content-center">
@@ -67,7 +67,7 @@ To overcome the sample inefficiency and unstable local minima of training high-d
 
 ---
 
-## Academic & Core Strengths
+## **Academic & Core Strengths**
 
 Instead of just running AI models, I back my research with a solid mathematical and software engineering foundation:
 * **Mathematical Rigor:** Achieved **A+** in *Enhanced Calculus & Linear Algebra*, and **A** in *Computational Probability Modeling*.
@@ -91,7 +91,7 @@ Instead of just running AI models, I back my research with a solid mathematical 
 
 --- -->
 
-## Technical Skills
+## **Technical Skills**
 
 * **Programming:** Python, C++, JavaScript, Java, MATLAB, SQL, HTML/CSS
 * **AI & Robotics:** PyTorch, TensorFlow, ROS/ROS2, OpenCV, OpenAI Gym
